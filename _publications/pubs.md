@@ -1,1 +1,2 @@
+# Welcome to My Publications
 <i>Aziz Nanthaamornphong</i>,Tanawat Saeang and Panyaprach Tularak,"Zsmell – Code Smell Detection for Open Source Software," International Journal on Advanced Science, Engineering and Information Technology, vol. 10, no. 3, pp. 1035-1041, 2020. [Scopus indexed]
