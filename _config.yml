@@ -7,21 +7,21 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Andaman Intelligent Tourism and Service Informatics Center"
+title                    : "Aziz Nanthaamornphong"
 title_separator          : "-"
-name                     : &name "Aziz Nanthaamornphong"
-description              : &description ""
-url                      : https://azizn.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
+name                     : "Aziz Nanthaamornphong"
+description              : &description "personal description"
+url                      : https://azizn.github.io
+baseurl                  : ""
 repository               : "azizn/azizn.github.io"
-teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+teaser                   :
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
-read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
-talkmap_link             : false #change to true to add link to talkmap on talks page
+read_more                : "disabled"
+talkmap_link             : false
 comments:
-  provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
+  provider               : false
   disqus:
     shortname            :
   discourse:
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : mrztha
 facebook:
   username               :
   app_id                 :
@@ -80,41 +80,21 @@ analytics:
 
 # Site Author
 author:
-  name             : "Aziz Nanthaamornphong"
+  name             : "<em>Assistant Professor</em> of Computer Science"
   avatar           : "profile.png"
-  bio              : "Assistant Professor of Computer Science, College of Computing, Prince of Songkla University"
+  employer         : "College of Computing, Prince of Songkla University"
+  bio              : "Empirical Software Engineering, Data Science, Cloud Computing"
   location         : "Phuket, Thailand"
-  employer         :
-  pubmed           : #""
+  office           : "6708"
+  googleMaps       : "https://goo.gl/maps/ynLnpFRre8vvAKVS8"
   googlescholar    : "https://scholar.google.com/citations?user=i36jTmUAAAAJ&hl=en"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              :
-  bitbucket        :
-  codepen          :
-  dribbble         :
-  flickr           :
-  facebook         : "https://www.facebook.com/Mr.ZiZ"
-  foursquare       :
+  email            : "aziz.n@phuket.psu.ac.th"
   github           : "azizn"
-  google_plus      :
-  keybase          :
-  instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
-  lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/0000-0002-1618-6001"
-  pinterest        :
-  soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            :
-  tumblr           :
-  twitter          : "mrztha"
-  vine             :
-  weibo            :
-  xing             :
-  youtube          :
-  wikipedia        :
+  twitter          : "petitroll"
+  researchGroup    : "AI-TASI"
+  researchUri      : "https://www.computing.psu.ac.th/research/aziz/"
+  dblp             : #"https://dblp.uni-trier.de/pers/hd/m/Mosser_0001:S=eacute=bastien"
+
 
 
 # Reading Files
@@ -129,23 +109,22 @@ exclude:
   - .bundle
   - .jekyll-assets-cache
   - .sass-cache
-  - CHANGELOG
+  - assets/js/plugins
+  - assets/js/_main.js
+  - assets/js/vendor
   - Capfile
+  - CHANGELOG
+  - config
   - Gemfile
   - Gruntfile.js
-  - LICENSE
-  - README
-  - Rakefile
-  - assets/js/_main.js
-  - assets/js/plugins
-  - assets/js/vendor
-  - config
   - gulpfile.js
+  - LICENSE
   - log
   - node_modules
   - package.json
+  - Rakefile
+  - README
   - tmp
-  - vendor
 keep_files:
   - .git
   - .svn
@@ -176,15 +155,6 @@ kramdown:
 # Collections
 collections:
   teaching:
-    output: true
-    permalink: /:collection/:path/
-  publications:
-    output: true
-    permalink: /:collection/:path/
-  portfolio:
-    output: true
-    permalink: /:collection/:path/
-  talks:
     output: true
     permalink: /:collection/:path/
 
