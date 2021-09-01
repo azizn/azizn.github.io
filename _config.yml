@@ -9,8 +9,8 @@
 locale                   : "en-US"
 title                    : "Andaman Intelligent Tourism and Service Informatics Center"
 title_separator          : "-"
-name                     : &name "Aziz Nanthaamornphong, Ph.D."
-description              : &description "Assistant Professor"
+name                     : &name "Aziz Nanthaamornphong"
+description              : &description ""
 url                      : https://azizn.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "azizn/azizn.github.io"
@@ -80,13 +80,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Aziz Nanthaamornphong"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "Assistant Professor of Computer Science"
+  location         : "College of Computing, Prince of Songkla University"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           : #""
+  googlescholar    : "https://scholar.google.com/citations?user=i36jTmUAAAAJ&hl=en"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -94,22 +94,22 @@ author:
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : "https://www.facebook.com/Mr.ZiZ"
   foursquare       :
-  github           : "academicpages"
+  github           : "azizn"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "http://orcid.org/0000-0002-1618-6001"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "mrztha"
   vine             :
   weibo            :
   xing             :
