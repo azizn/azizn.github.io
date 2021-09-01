@@ -16,5 +16,5 @@ main:
   - title: "CV"
     url: /cv/
 
-  - title: "Agenda"
-    url: /agenda/
+  - title: "Event"
+    url: /events/
