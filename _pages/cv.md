@@ -36,6 +36,43 @@ Academic Work experience
 * 2001 - 2002: Junior Developer
   * Drumbeat Digital (Thailand), Co., Ltd.
 
+Professional Activities
+======
+* Journal Reviewers
+  * IEEE Transaction on Software Engineering
+  * Software Quality Journal
+  * Scientific Software
+  * Journal of Software : Evolution and Process 
+  * Information and Software Technology
+  * Computing in Science & Engineering
+  * Journal of Software: Practice and Experience
+  * Institute of Electronics, 
+  * Information and Communication Engineers 
+  * International Journal of Web Information Systems
+
+* Conference/Workshop Chairs
+  * Publication Chair, SEA-STEM 2021 (https://stem.psu.ac.th/)
+  * Publication Chair, ICSEC 2021 (https://ict.up.ac.th/icsec2021/)
+  * Publication Chair, ECTI-CON 2021 (https://ecticon2021.ecticon.org/)
+  * General Chair, ECTI-CON 2020 (https://ecticon2020.ecticon.org/)
+  * General Co-Chair, ICSEC 2019 (https://www.icsec2019.org/Committee.php)
+
+* Conference/Workshop Program Committee  
+  * The International Joint Conference on Computer Science and Software Engineering, 2018 
+  * International Conference on Enterprise Architecture and Information Systems, 2018
+  * International Conference on Computing and Information Technology, 2018
+  * The 2nd International Conference on Information Technology, 2017
+  * The National Conference on Information Technology, 2015, 2017
+  * The 2nd International Conference on Enterprise Architecture and Information Systems, 2017
+  * The National Conference on Computing and Information Technology, 2015 - 2018
+  * The 2015 Workshop on Software Engineering, 2015
+  * Empirical Software Engineering and Measurement, 2012-2014
+  * The 3rd Annual PSU Phuket International Conference, 2014
+  * Asia-Pacific Workshop on Software Engineering for Computational Science and Engineering, 2013
+  * International Symposium on Software Reliability Engineering, 2013
+  * International Workshop on Replication in Empirical Software Engineering Research, 2013
+  * The 50th ACM Southeast Conference, 2012
+
 Awards
 ======
 * Staff of the Year Award 2020, 
@@ -93,6 +130,11 @@ Awards
 
 Grants
 ======
+* Digital Twin for Andaman Tourism
+  * Aziz Nanthaamornphong (PI), Adisak Intana (Co-PI), Kanjana Laosen (Co-PI),Kitsiri Chochiang (Co-Pi), Nattapong Tongtep (Co-PI)
+  * Source: Ministry of Higher Education, Science, Research and Innovation
+  * Duration 4/2021 - 3/2022
+  
 * Marketing Channel Development for Wellness Spa in Southern Thailand
   * Aziz Nanthaamornphong (PI)
   * Source: Spearhead Funding, Thailand Science Research and Innovation 
