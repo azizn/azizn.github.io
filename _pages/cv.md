@@ -51,11 +51,11 @@ Professional Activities
   * International Journal of Web Information Systems
 
 * Conference/Workshop Chairs
-  * Publication Chair, SEA-STEM 2021 (https://stem.psu.ac.th/)
-  * Publication Chair, ICSEC 2021 (https://ict.up.ac.th/icsec2021/)
-  * Publication Chair, ECTI-CON 2021 (https://ecticon2021.ecticon.org/)
-  * General Chair, ECTI-CON 2020 (https://ecticon2020.ecticon.org/)
-  * General Co-Chair, ICSEC 2019 (https://www.icsec2019.org/Committee.php)
+  * Publication Chair, [SEA-STEM 2021] (https://stem.psu.ac.th/)
+  * Publication Chair, [ICSEC 2021] (https://ict.up.ac.th/icsec2021/)
+  * Publication Chair, [ECTI-CON 2021] (https://ecticon2021.ecticon.org/)
+  * General Chair, [ECTI-CON 2020] (https://ecticon2020.ecticon.org/)
+  * General Co-Chair, [ICSEC 2019] (https://www.icsec2019.org/Committee.php)
 
 * Conference/Workshop Program Committee  
   * The International Joint Conference on Computer Science and Software Engineering, 2018 
@@ -134,7 +134,7 @@ Grants
   * Aziz Nanthaamornphong (PI), Adisak Intana (Co-PI), Kanjana Laosen (Co-PI),Kitsiri Chochiang (Co-Pi), Nattapong Tongtep (Co-PI)
   * Source: Ministry of Higher Education, Science, Research and Innovation
   * Duration 4/2021 - 3/2022
-  
+
 * Marketing Channel Development for Wellness Spa in Southern Thailand
   * Aziz Nanthaamornphong (PI)
   * Source: Spearhead Funding, Thailand Science Research and Innovation 
