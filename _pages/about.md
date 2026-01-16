@@ -10,21 +10,21 @@ redirect_from:
 
 I am an **Associate Professor of Computer Science** and **Dean** of the [College of Computing](https://computing.psu.ac.th/), [Prince of Songkla University](https://www.psu.ac.th/), Phuket Campus, Thailand.
 
-My research focuses on the intersection of **data science** and **software engineering**, with particular emphasis on software analytics, empirical software engineering, and applying AI/ML techniques to improve software development practices.
+My research spans **next-generation wireless communications** and **applied artificial intelligence**, with current focus on 5G/6G signal processing (PAPR reduction, NOMA, OTFS, MIMO systems), deep learning for medical imaging and disease detection, and data-driven approaches to tourism analytics and sentiment analysis.
 
 ---
 
 ## Research Interests
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px; margin-bottom: 20px;">
-  <span style="background: #e8f4f8; padding: 5px 12px; border-radius: 15px; font-size: 0.9em;">Data Science</span>
-  <span style="background: #e8f4f8; padding: 5px 12px; border-radius: 15px; font-size: 0.9em;">Software Engineering</span>
-  <span style="background: #e8f4f8; padding: 5px 12px; border-radius: 15px; font-size: 0.9em;">Machine Learning</span>
-  <span style="background: #e8f4f8; padding: 5px 12px; border-radius: 15px; font-size: 0.9em;">Cloud Computing</span>
-  <span style="background: #e8f4f8; padding: 5px 12px; border-radius: 15px; font-size: 0.9em;">Open Source Software</span>
-  <span style="background: #e8f4f8; padding: 5px 12px; border-radius: 15px; font-size: 0.9em;">Software Quality</span>
-  <span style="background: #e8f4f8; padding: 5px 12px; border-radius: 15px; font-size: 0.9em;">Test-Driven Development</span>
-  <span style="background: #e8f4f8; padding: 5px 12px; border-radius: 15px; font-size: 0.9em;">Wireless Communications</span>
+  <span style="background: #e8f4f8; padding: 5px 12px; border-radius: 15px; font-size: 0.9em;">5G/6G Wireless Communications</span>
+  <span style="background: #e8f4f8; padding: 5px 12px; border-radius: 15px; font-size: 0.9em;">Deep Learning</span>
+  <span style="background: #e8f4f8; padding: 5px 12px; border-radius: 15px; font-size: 0.9em;">Signal Processing</span>
+  <span style="background: #e8f4f8; padding: 5px 12px; border-radius: 15px; font-size: 0.9em;">Medical Image Analysis</span>
+  <span style="background: #e8f4f8; padding: 5px 12px; border-radius: 15px; font-size: 0.9em;">Smart Healthcare</span>
+  <span style="background: #e8f4f8; padding: 5px 12px; border-radius: 15px; font-size: 0.9em;">Tourism Analytics</span>
+  <span style="background: #e8f4f8; padding: 5px 12px; border-radius: 15px; font-size: 0.9em;">NOMA/OTFS/MIMO Systems</span>
+  <span style="background: #e8f4f8; padding: 5px 12px; border-radius: 15px; font-size: 0.9em;">Optical Communications</span>
 </div>
 
 ---
