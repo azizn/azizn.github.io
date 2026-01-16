@@ -67,6 +67,12 @@ I have served in various leadership and organizing roles for professional associ
   <span style="color: #666;">Institution of Engineering and Technology (IET)</span>
 </div>
 
+<div style="margin-bottom: 25px; padding: 15px; background: #f8f9fa; border-left: 4px solid #6f42c1; border-radius: 4px;">
+  <strong style="color: #6f42c1;">Editorial Board Member</strong><br>
+  <span style="font-size: 1.1em; font-weight: 500;">ECTI Transactions on Computer and Information Technology (ECTI-CIT)</span><br>
+  <span style="color: #666;">ECTI Association</span>
+</div>
+
 </div>
 
 ---
