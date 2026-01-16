@@ -1,11 +1,53 @@
 ---
 layout: single
-title: "Conference Committee"
+title: "Committee & Service"
 permalink: /committee/
 author_profile: true
 ---
 
-I have served in various leadership and organizing roles for international conferences in computer science, software engineering, and information technology.
+I have served in various leadership and organizing roles for professional associations, government committees, and international conferences in computer science, software engineering, and information technology.
+
+---
+
+## Professional Service & Leadership
+
+<div style="margin-top: 20px;">
+
+<div style="margin-bottom: 25px; padding: 15px; background: #f8f9fa; border-left: 4px solid #dc3545; border-radius: 4px;">
+  <strong style="color: #dc3545;">President</strong><br>
+  <span style="font-size: 1.1em; font-weight: 500;">Council of IT Deans of Thailand</span><br>
+  <span style="color: #666;">2025 – Present</span>
+</div>
+
+<div style="margin-bottom: 25px; padding: 15px; background: #f8f9fa; border-left: 4px solid #fd7e14; border-radius: 4px;">
+  <strong style="color: #fd7e14;">Executive Board Member</strong><br>
+  <span style="font-size: 1.1em; font-weight: 500;">ECTI Association</span><br>
+  <span style="color: #666;">Electrical Engineering/Electronics, Computer, Telecommunications and Information Technology Association of Thailand</span><br>
+  <span style="color: #666;">2020 – Present</span>
+</div>
+
+<div style="margin-bottom: 25px; padding: 15px; background: #f8f9fa; border-left: 4px solid #20c997; border-radius: 4px;">
+  <strong style="color: #20c997;">Committee Member</strong><br>
+  <span style="font-size: 1.1em; font-weight: 500;">Phuket Smart City Steering Committee</span><br>
+  <span style="color: #666;">Phuket Province, Thailand</span><br>
+  <span style="color: #666;">2016 – Present</span>
+</div>
+
+<div style="margin-bottom: 25px; padding: 15px; background: #f8f9fa; border-left: 4px solid #20c997; border-radius: 4px;">
+  <strong style="color: #20c997;">Committee Member</strong><br>
+  <span style="font-size: 1.1em; font-weight: 500;">Phuket Smart City Master Plan Review Committee</span><br>
+  <span style="color: #666;">Phuket Province, Thailand</span><br>
+  <span style="color: #666;">2020 – Present</span>
+</div>
+
+<div style="margin-bottom: 25px; padding: 15px; background: #f8f9fa; border-left: 4px solid #20c997; border-radius: 4px;">
+  <strong style="color: #20c997;">Committee Member</strong><br>
+  <span style="font-size: 1.1em; font-weight: 500;">Chalong Bay Port Management System Procurement Committee</span><br>
+  <span style="color: #666;">Phuket Province, Thailand</span><br>
+  <span style="color: #666;">2020 – Present</span>
+</div>
+
+</div>
 
 ---
 
