@@ -21,7 +21,7 @@ You can find an extended version of my CV as a [PDF file](../files/CV.pdf).
 Academic Work experience
 ======
 * 06/2018 - Present: Deputy Dean of Research, Post Graduate, and Academic Service
-* 06/2016 - Present: Assistant Professor of Computer Science
+* 06/2016 - Present: Associate Professor of Computer Science
 * 05/2014 - 06/2018: Chair of Master of Science Program in Information Technology
 * 06/2016 - Present: Lecturer, College of Computing, Prince of Songkla University, Thailand
 * 05/2014 - 06/2016: Lecturer, Faculty of Technology and Environment, Prince of Songkla University, Thailand
