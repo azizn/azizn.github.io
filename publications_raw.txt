@@ -1,0 +1,734 @@
+================================================================================
+PUBLICATIONS DATA - AZIZ NANTHAAMORNPHONG
+Scraped from: https://computing.psu.ac.th/cv/publications?encode_id=ee0d6944679ccb9b291bc11d950ec148
+================================================================================
+
+================================================================================
+SECTION 1: INTERNATIONAL JOURNAL ARTICLES (144 total)
+================================================================================
+
+--- Page 1 ---
+
+1. Kumar, A., Gaur, N. & Nanthaamornphong, A. (2025). Enhanced PAPR reduction in NOMA systems using modified SLM and PTS techniques for power-efficient 5G and beyond networks. Open Engineering, 15(1), 20250153.
+   Month/Year: 1/2026
+
+2. Kumar, A., Aswatha, A., AB, K., Raja, C., Chakravarty, S. & Nanthaamornphong, A. (2025). An optical network emulation framework for underwater communication using AFDM. Journal of Optical Communications.
+   Month/Year: 12/2025
+
+3. Hiremath, M., Revathi, V., Kumar, A., Chandra Pradhan, P. & Nanthaamornphong, A. (2025). A hybrid deep learning and companding technique for distortion-resilient optical NOMA VLC with 1024-QAM modulation. Journal of Optical Communications.
+   Month/Year: 12/2025
+
+4. Kunwar, F., Shukla, S., Singh, S., Dhanke, J., Gurulakshmi, A. & Nanthaamornphong, A. (2025). Neural network-based peak power and throughput analysis of optical OFDM waveforms with 1024-QAM for high-capacity computer networks. Journal of Optical Communications.
+   Month/Year: 11/2025
+
+5. Chilakarao, M., Behera, S. K., Raju, K. P., Dash, P. P., Sethy, P. K., & Nanthaamornphong, A. (2025). Domain-aligned feature extraction with Mobilenetv2-GRL and KNN for wheat leaf disease detection. Results in Engineering, 28, 108118.
+   Month/Year: 11/2025
+
+6. Radhakrishnan, P., Kandula, S., Hussain Sharief, A., Sharma, K., Kuma, A. & Nanthaamornphong, A. (2025). Autoencoder-driven PTS for power optimization of optical-NOMA waveform amplifiers. Journal of Optical Communications.
+   Month/Year: 11/2025
+
+7. Kumar, A., Gaur, N., & Nanthaamornphong, A. (2025). Reducing the peak to average power ratio of UFMC waveform for beyond 5G system using hybrid SLM+PTS+RNN algorithms. IET Communications, 19(1), e70117.
+   Month/Year: 11/2025
+
+8. Patel, K., Sarathamani, T., Kothandasamy, K., Sethy, P. K., Behera, S. K., & Nanthaamornphong, A. (2025). Computational approaches to neurological disorder diagnosis: An in-depth review of current methods and future prospects. Current Medical Imaging, 21, 1-38.
+   Month/Year: 11/2025
+
+9. Kumar, A., Gaur, N., & Nanthaamornphong, A. (2025). A comprehensive review on 6G advanced techniques and challenges for rural health care system. Journal of Internet Services and Information Security, 15(4), 693-708.
+   Month/Year: 11/2025
+
+10. Kumar, A., Nanthaamornphong, A., Gaur, N., & Masud, M. (2025). Low complexity hybrid algorithm for improving PAPR, BER, and PSD in OTFS under diverse channel conditions. Scientific Reports, 15(1), 42023.
+    Month/Year: 11/2025
+
+--- Page 2 ---
+
+11. Kumar, A., Nanthaamornphong, A., Alsharif, M. H., Masud, M., & Meshref, H. (2025). Cognitive radio and spectrum sensing techniques for sustainable marine ecosystem monitoring. Frontiers in Marine Science, 12.
+    Month/Year: 11/2025
+
+12. Kumar, A., Chakravarty, S., & Nanthaamornphong, A. (2025). Simultaneous wireless information and power transfer along with beamforming. Journal of the Chinese Institute of Engineers, 1-14.
+    Month/Year: 10/2025
+
+13. Kumar, A., Aswatha, A., Ashok, K., Ramakrishna, D. & Nanthaamornphong, A. (2025). Performance analysis of FSO OFDM for 256-QAM scheme under optical diverse channel. Journal of Optical Communications.
+    Month/Year: 10/2025
+
+14. Kumar, A., Patil, R., Devanna, H. & Nanthaamornphong, A. (2025). Optimizing power amplifier efficiency through PAPR reduction in optical FBMC for VLC applications. Journal of Optical Communications.
+    Month/Year: 10/2025
+
+15. Behera, S. K., Varma, P. B. S., Teresa, V. V., Das, K., Sethy, P. K., & Nanthaamornphong, A. (2025). Thermal vision for lady finger quality assessment: A three-stage convolutional neural network approach. International Journal of Food Science and Technology, 60(2), vvaf171.
+    Month/Year: 10/2025
+
+16. Shrivastav, A., Meharunnisa, S., Atti, S., Kumar, A. & Nanthaamornphong, A. (2025). Signal detection in optical orthogonal time space modulation for efficient VLC application. Journal of Optical Communications.
+    Month/Year: 10/2025
+
+17. Kumar, A., & Nanthaamornphong, A. (2025). Signal detection of massive MIMO-OTFS using DNN algorithm with diverse channel state estimation. Physics Open, 25, 100332.
+    Month/Year: 10/2025
+
+18. Nayak, S.K., Garanayak, M., Swain, S.K., Panigrahi, G.R., Sethy, P.K., Nanthaamornphong, A. (2025). A decision tree-based approach for disease prediction and Ayurvedic drug recommendation. Ingenierie des Systemes d'Information, Vol. 30, No. 8, pp. 2001-2010.
+    Month/Year: 10/2025
+
+19. Jat, N., Kumar, A., Ali, E. M., Gupta, M., Elkamchouchi, D. H., & Nanthaamornphong, A. (2025). Enhanced isolation unique fractal diminutive MIMO antenna with identical elliptical notch and cross stub for wireless uses. Scientific Reports, 15(1), 36600.
+    Month/Year: 10/2025
+
+20. Alam, S., Zardari, S., Munawwar, M., Aamir, T., Gupta, M., & Nanthaamornphong, A. (2025). WhiteShield: A white-wash resilient blockchain-based trust management system. SoftwareX, 32, Article 102385.
+    Month/Year: 10/2025
+
+--- Page 3 ---
+
+21. Dhanke, J., Gurulakshmi, A., Krishnamoorthy, R., Gaur, N., Kumar, A. & Nanthaamornphong, A. (2025). VLC application in peak to average power reduction in optical NOMA waveform using PAPR methods. Journal of Optical Communications.
+    Month/Year: 9/2025
+
+22. Kunwar, F., Maurya, V., Sinha, D., Krishna Edpuganti, S., Nanthaamornphong, A. & Kumar, A. (2025). Estimation of spectrum sensing efficiency for optical OFDM for QAM schemes using SVM methods for VLC applications. Journal of Optical Communications.
+    Month/Year: 9/2025
+
+23. Verma, R., Soni, D., Goyal, A., Gupta, M., Alanazi, F., & Nanthaamornphong, A. (2025). A context-aware energy saving information centric (CAES) model for wireless communication network. Journal of Engineering Research, 13(3), 2340-2347.
+    Month/Year: 9/2025
+
+24. Srianan, S., Nanthaamornphong, A., & Phucharoen, C. (2025). Advancing tourism sentiment analysis: A comparative evaluation of traditional machine learning, deep learning, and transformer models on imbalanced datasets. Information Technology & Tourism.
+    Month/Year: 8/2025
+    Tag: Q1 (top 10%)
+
+25. Kumar, A., Gaur, N., Chakravarty, S., & Nanthaamornphong, A. (2025). Concurrent wireless power and information transfer with beamforming for 5G networks. Results in Optics, 21, 100878.
+    Month/Year: 8/2025
+    Tag: Q2
+
+26. Gaur, N., Dhanke, J., R, K., Kumar, A. & Nanthaamornphong, A. (2025). Adaptive spectrum sensing in optical OFDM using high-order QAM for VLC applications. Journal of Optical Communications.
+    Month/Year: 8/2025
+    Tag: Q1
+
+27. Kunwar, F., Pareek, R., Raj K, S., Nanthaamornphong, A., Gaur, N. & Sharma, M. (2025). Advanced signal detection in optical OFDM-VLC with 256-QAM scheme: LSTM-aided BER and PSD optimization over Rayleigh channels. Journal of Optical Communications.
+    Month/Year: 8/2025
+    Tag: Q1
+
+28. Ratha, A. K., Barpanda, N. K., Sethy, P. K., Behera, S. K., & Nanthaamornphong, A. (2025). Optimizing papaya disease classification: A hybrid approach using deep features and PCA-enhanced machine learning. Journal of Intelligent Systems, 32(1), 1-15.
+    Month/Year: 8/2025
+    Tag: Q2
+
+29. Kumar, A., Nanthaamornphong, A., & Masud, M. (2025). RNN-Bi-LSTM spectrum sensing algorithm for NOMA waveform with diverse channel conditions. Scientific Reports, 15(1), 31022.
+    Month/Year: 8/2025
+    Tag: Q1
+
+30. Kumar, A., & Nanthaamornphong, A. (2025). NN-PTS: A neural network-assisted PAPR reduction technique for OTFS with high-order modulation. High Energy Density Physics, 56, 101225.
+    Month/Year: 8/2025
+    Tag: Q3
+
+--- Page 4 ---
+
+31. Kumar, A., Nanthaamornphong, A., & Gaur, N. (2025). Optimizing PAPR performance for 6G OTFS waveform using adaptive genetic PTS method for Rician fading channels. EURASIP Journal on Advances in Signal Processing, 2025(1), 22.
+    Month/Year: 7/2025
+    Tag: Q2
+
+32. Pandey, A., Raja, R., Gupta, M., Alenizi, F. A., Suanpang, P., & Nanthaamornphong, A. (2025). Deep learning enabled garbage classification and detection by visual context for aerial images. Applied Computational Intelligence and Soft Computing, 2025(1), 9106130.
+    Month/Year: 7/2025
+    Tag: Scopus Q1 Top 10%
+
+33. Kumar, A., Gaur, N., & Nanthaamornphong, A. (2025). Signal detection of massive MIMO systems using LSTM-based signal detectors for beyond 5G radio. Alexandria Engineering Journal, 127, 760-770.
+    Month/Year: 7/2025
+    Tag: Q1 (top 10%)
+
+34. Kumar, A., Nanthaamornphong, A., Alsharif, M. H., & Masud, M. (2025). SIC based RL for massive MIMO NOMA signal detection for different modulation schemes under diverse channel conditions. Scientific Reports, 15(1), 24641.
+    Month/Year: 7/2025
+    Tag: Q1
+
+35. Kumar, A., K T, C., Radhakrishnan, P. & Nanthaamornphong, A. (2025). Efficient hybrid signal detection for optical NOMA with 512-QAM in visible light communication. Journal of Optical Communications.
+    Month/Year: 7/2025
+    Tag: Q1
+
+36. Kumar, A., Chakravarthy, S., Amin, R., & Nanthaamornphong, A. (2025). Rate splitting multiple access in V2X. IET Intelligent Transport Systems, 19(1), e70067.
+    Month/Year: 7/2025
+    Tag: Q1 (top 10%)
+
+37. Patharia, P., Sethy, P. K., Raju, K. L., Khanna, A., Ratha, A. K., Behera, S. K., & Nanthaamornphong, A. (2025). Hybrid Darknet53-SVM model with random grid search optimization for enhanced colorectal cancer histological image classification. Discover Artificial Intelligence, 5(1), 181.
+    Month/Year: 7/2025
+    Tag: Q1
+
+38. Sharma, S., Shrivastav, A., Shinde, J., Jirapure, A. B., Gawai, J. S., & Nanthaamornphong, A. (2025). Optimizing YOLOv5-powered real-time surveillance using optical communication networks. Journal of Optical Communications.
+    Month/Year: 7/2025
+    Tag: Q1
+
+39. Kumar, A., Chakravarty, S., & Nanthaamornphong, A. (2025). Investigation of the satellite internet of things and reinforcement learning via complex software defined network modeling. International Journal of Electrical and Computer Engineering (IJECE), 15(3), 3506.
+    Month/Year: 6/2025
+    Tag: Q2
+
+40. Ratha, A. K., Devi, A. G., Sethy, P. K., Barpanda, N. K., Behera, S. K., & Nanthaamornphong, A. (2025). Deep learning-powered precision: A CNN-based approach for postharvest classification of Indian banana varieties in supermarket supply chains. Food Science and Technology, 13(2), 165-177.
+    Month/Year: 6/2025
+
+--- Page 5 ---
+
+41. Mishra, K., Behera, S. K., Devi, A. G., Sethy, P. K., & Nanthaamornphong, A. (2025). Integrating shallow and deep features for precision evaluation of corn grain quality: A novel fusion approach. International Journal of Computational Intelligence Systems, 18(1), 156.
+    Month/Year: 6/2025
+    Tag: Q1
+
+42. Kumar, A., Gaur, N., & Nanthaamornphong, A. (2025). Optical OTFS waveform PAPR analysis for high order modulation employing CNN, DNN, and AE machine learning algorithms under a variety of channel scenarios. Physics Open, 24, 100284.
+    Month/Year: 6/2025
+    Tag: Q3
+
+43. Ramudu, K., Udayakumar, A. K., Kumar, A., Nanthaamornphong, A., & Gopinath, S. (2025). Optimized neuro-adaptive twin pulse-coupled estimators for efficient channel estimation in heterogeneous 5G MIMO-OFDM communication systems. Internet Technology Letters, 8(3), e70013.
+    Month/Year: 5/2025
+    Tag: Q3
+
+44. Pal, K., Kumari, N., Akella, A. K., Gupta, M., Suanpang, P., & Nanthaamornphong, A. (2025). Machine learning-based image pattern recognition using histogram of oriented gradient for islanding detection. IEEE Access, 13, 74396-74416.
+    Month/Year: 5/2025
+    Tag: Q1 (Tier 1)
+
+45. Kumar, A., Chakravarty, S., Bobade, S. D., & Nanthaamornphong, A. (2025). Design and analysis of optical MIMO communications for 256-QAM for reconfigurable holographic surfaces. Journal of Optical Communications.
+    Month/Year: 5/2025
+    Tag: Q3
+
+46. Dash, S. K., Satyanarayana, K., Behera, S. K., Jena, S., Ratha, A. K., Sethy, P. K., & Nanthaamornphong, A. (2025). Ocular disease detection using fundus images: A hybrid approach of Grad-CAM and multiscale Retinex preprocessing with VGG16 deep features and fine KNN classification. Applied Computational Intelligence and Soft Computing, 2025(1), Article 6653543.
+    Month/Year: 5/2025
+    Tag: Q1
+
+47. Yewale, D., Patil, S., Date, A. R., & Nanthaamornphong, A. (2025). Heart disease prediction using ensemble methods, genetic algorithms, and data augmentation: A preliminary study. Journal of Robotics and Control, 6(3), 1092.
+    Month/Year: 5/2025
+    Tag: Q2
+
+48. Dale, M., Kamble, V. H., Dhumale, R. B., & Nanthaamornphong, A. (2025). Open Switch Fault Diagnosis in Three-Phase Voltage Source Inverters Using Single Neuron Implementation. Processes, 13(4), 1070.
+    Month/Year: 4/2025
+    Tag: Q2
+
+49. Kumar, A., & Nanthaamornphong, A. (2025). Reducing the peak to average power ratio in optical NOMA waveform using Airy-special function based PTS algorithm. Infocommunications Journal, 17(1), 11-18.
+    Month/Year: 4/2025
+    Tag: Q3
+
+50. Kumar A, Masud M, Alsharif MH, Gaur N and Nanthaamornphong A (2025) Integrating 6G technology in smart hospitals: challenges and opportunities for enhanced healthcare services. Front. Med. 12:1534551.
+    Month/Year: 4/2025
+    Tag: Q1
+
+--- Page 6 ---
+
+51. Kumar, A., Gaur, N., & Nanthaamornphong, A. (2025). Reducing PAPR in NOMA waveforms using genetic-enhanced PTS and SLM: A low-complexity approach for improved throughput, power spectral density, and power efficiency. Results in Engineering, 26, 104893.
+    Month/Year: 4/2025
+    Tag: Q1
+
+52. Jat, N., Kumar, A., Gupta, M., & Nanthaamornphong, A. (2025). Natural fabric wearable high isolation fractal MIMO antenna for wireless communication and 5G uses. Discover Applied Sciences, 7(5), 365.
+    Month/Year: 4/2025
+    Tag: Q1
+
+53. Kamble, V. H., Dale, M., Dhumale, R. B., & Nanthaamornphong, A. (2025). Optimization of PID Controllers Using Groupers and Moray Eels Optimization with Dual-Stream Multi-Dependency Graph Neural Networks for Enhanced Dynamic Performance. Energies, 18(8), 2034.
+    Month/Year: 4/2025
+    Tag: Q1
+
+54. Kumar, A., Radhakrishnan, P., Raja, C. & Nanthaamornphong, A. (2025). Throughput analysis of optical NOMA waveform through RNN and CNN neural networks with 256-QAM. Journal of Optical Communications.
+    Month/Year: 4/2025
+    Tag: Q3
+
+55. Kumar, A., & Nanthaamornphong, A. (2025). Genetic algorithm-based PTS with CNN for PAPR and BER reduction in FBMC systems under fading channels. Ain Shams Engineering Journal, 16(7), 103434.
+    Month/Year: 4/2025
+    Tag: Q1 (Tier 1)
+
+56. Kumar, A., Gaur, N., & Nanthaamornphong, A. (2025). Hybrid signal algorithm detection in NOMA 5G waveform: Transforming smart healthcare connectivity by reducing latency. Egyptian Informatics Journal, 30, 100677.
+    Month/Year: 4/2025
+    Tag: Q1 (Tier 1)
+
+57. Kumar, A., Gaur, N., & Nanthaamornphong, A. (2025). A mathematical PAPR estimation of OTFS network using a machine learning SVM algorithm. Results in Optics, 21, 100834.
+    Month/Year: 4/2025
+    Tag: Q3
+
+58. Tupe-Waghmare, P., Ganvir, N., Dhumale, R. B., & Nanthaamornphong, A. (2025). Open-Circuit Fault Diagnosis in 3-phase V/F-Controlled VSIs Under Variable Load Conditions at Different Frequencies Using Park's Vector Normalization and Extreme Gradient Boosting. Processes, 13(5), 1313.
+    Month/Year: 4/2025
+    Tag: Q2
+
+59. Sangkaew, N., Nanthaamornphong, A., & Phucharoen, C. (2025). Wealth and tourism in Thailand: A spatial analysis using Google Maps. Social Sciences & Humanities Open, 11, 101388.
+    Month/Year: 4/2025
+    Tag: Q1
+
+60. Kumar, A., Gaur, N., & Nanthaamornphong, A. (2025). Hybrid Spectrum Sensing Using Neural Network-Based MF and ED for Enhanced Detection in Rayleigh Channel. Journal of Electrical and Computer Engineering, 2025(1), 9506922.
+    Month/Year: 3/2025
+    Tag: Q2
+
+--- Page 7 ---
+
+61. Srianan, S., Nanthaamornphong, A., & Phucharoen, C. (2025, March 27). Analyzing emotional experiences through UGC: Insights from Bali and Phuket. Journal of Quality Assurance in Hospitality & Tourism.
+    Month/Year: 3/2025
+    Tag: Q1
+
+62. Kumar, A., Piruthiviraj, Chakravarty, S., Sharma, S., Nithin Kumar, N. R., & Nanthaamornphong, A. (2025). Physical layer analysis of optical MIMO NOMA waveform for 64-QAM in visible light communications. Journal of Optical Communications.
+    Month/Year: 3/2025
+    Tag: Q3
+
+63. Kumar, A., Sarveswara Rao, T., Kumar Mishra, A., Kumar Swarnkar, S. & Nanthaamornphong, A. (2025). Lowering the PAPR by using the PTS method for high-speed optical OTFS systems. Journal of Optical Communications.
+    Month/Year: 2/2025
+    Tag: Q3
+
+64. Kumar, A., & Nanthaamornphong, A. (2025). Analysis of 6G and B5G waveforms using hybrid MF-ED and ECG-ED spectrum sensing techniques. Automatika, 66(2), 133-153.
+    Month/Year: 2/2025
+    Tag: Q2
+
+65. Kumar, A., Gaur, N. and Nanthaamornphong, A. (2025), Detection of Beyond 5G Signal Detection Using Hybrid Method. Internet Technology Letters e655.
+    Month/Year: 2/2025
+    Tag: Q3
+
+66. Kumar, A., Gaur, N., & Nanthaamornphong, A. (2025). A SIC and ML approach for MIMO non-orthogonal multiple access signal detection. Results in Optics, 18, 100792.
+    Month/Year: 2/2025
+    Tag: Q3
+
+67. Padhi, J., Mishra, K., Ratha, A. K., Behera, S. K., Sethy, P. K., & Nanthaamornphong, A. (2025). Enhancing paddy leaf disease diagnosis: A hybrid CNN model using simulated thermal imaging. Smart Agricultural Technology, 10, 100814.
+    Month/Year: 2/2025
+    Tag: Q1
+
+68. Kumar, A., Sarveswara Rao, T., K. T., C., Chakravarty, S., Gaur, N. & Nanthaamornphong, A. (2025). Analysis of software-defined radio for optical networking. Journal of Optical Communications.
+    Month/Year: 1/2025
+    Tag: Q3
+
+69. Kumar, A., Sarveswara Rao, T., C.N., G., Gaur, N. & Nanthaamornphong, A. (2025). Analysis of PAPR reduction algorithms for optical OFDM 5G radio waveform system for visible light communication. Journal of Optical Communications.
+    Month/Year: 1/2025
+    Tag: Q3
+
+70. Kumar A, Gaur N, Nanthaamornphong A. PAPR reduction using model-driven hybrid algorithms in the 6G NOMA waveform. Internet Technology Letters. 2024; 7(6):e515.
+    Month/Year: 1/2025
+    Tag: Q3
+
+--- Page 8 ---
+
+71. Sethy, P. K., Korada, L., Behera, S. K., Shirole, A., Amat, R., & Nanthaamornphong, A. (2024). Maximizing steel slice defect detection: Integrating ResNet101 deep features with SVM via Bayesian optimization. Systems and Soft Computing, 6, 200170.
+    Month/Year: 12/2024
+    Tag: Q3
+
+72. Kumari, J., Behera, S. K., Sethy, P. K., & Nanthaamornphong, A. (2024). Enhanced Parkinson's disease diagnosis via MRI analysis: Integrating deep features from DenseNet201 with neural network techniques. Applied Computational Intelligence and Soft Computing, 2024(1), Article 5582371.
+    Month/Year: 12/2024
+    Tag: Q1
+
+73. Kumar, A., Gaur, N., & Nanthaamornphong, A. (2024). Signal detection of M-MIMO-orthogonal time frequency space modulation using hybrid algorithms: ZFE + MMSE and ZFE + MF. Results in Engineering, 24, 103311. doi:10.1016/j.rineng.2024.103311
+    Month/Year: 11/2024
+    Tag: Q1
+
+74. Kumar, A., Gaur, N., & Nanthaamornphong, A. (2024). Bi-LSTM based deep learning algorithm for NOMA-MIMO signal detection system. National Academy Science Letters.
+    Month/Year: 11/2024
+    Tag: Q3
+
+75. Nanthaamornphong, A., Kumar, A., Maashi, M., Maray, M., Ebad, S. A., Alshahrani, H. M., ... Sharma, S. (n.d.). FRACTAL PEAK POWER ANALYSIS ON NOMA WAVEFORMS USING THE PTS METHOD FOR DIFFERENT SUB-CARRIERS: APPLICATIONS IN 5G AND BEYOND. Fractals, 0(0), 2540017.
+    Month/Year: 11/2024
+    Tag: Q1 (Tier 1)
+
+76. Dash, S. K., Sethy, P. K., Das, A., Jena, S., & Nanthaamornphong, A. (2024). Advancements in deep learning for automated diagnosis of ophthalmic diseases: A comprehensive review. IEEE Access, 12, 171221-171240.
+    Month/Year: 11/2024
+    Tag: Q1 (Tier 1)
+
+77. Pandey, A., Raja, R., Srivastava, S., Kumar, K., Gupta, M., Somthawinpongsai, C., & Nanthaamornphong, A. (2024). Bio-inspired object detection and tracking in aerial images: Harnessing northern goshawk optimization. IEEE Access, 12, 174028-174040.
+    Month/Year: 11/2024
+    Tag: Q1 (Tier 1)
+
+78. Kumar, A., Gaur, N., Chakravarthy, S., & Nanthaamornphong, A. (2025). Enhancing satellite networks with deep reinforcement learning: A focus on IoT connectivity and dynamic resource management. Results in Optics, 18, 100765.
+    Month/Year: 11/2024
+    Tag: Q3
+
+79. Kumar, A., Maashi, M., Alshahrani, H. M., Arasi, M. A., Yahya, A. E., Nanthaamornphong, A., Aljabri, J., & Alzahrani, Y. (2024). Peak to average power computing and optimization of optical OTFS 5G waveform using hybrid fractal-based signal processing algorithm. Fractals, Article 2540040.
+    Month/Year: 10/2024
+    Tag: Q1 (Tier 1)
+
+80. Patra, A., Biswas, P., Behera, S., Barpanda, N., Sethy, P. & Nanthaamornphong, A. (2024). Transformative insights: Image-based breast cancer detection and severity assessment through advanced AI techniques. Journal of Intelligent Systems, 33(1), 20240172.
+    Month/Year: 10/2024
+
+--- Page 9 ---
+
+81. Nanthaamornphong, A., Gaur, N., Maguluri, L. P., & Kumar, A. (2025). A phase factor generation using RNNs deep learning algorithm-based PTS method for PAPR reduction of beyond 5G FBMC waveform. Alexandria Engineering Journal, 110, 468-478.
+    Month/Year: 10/2024
+    Tag: Q1 (Tier 1)
+
+82. Patharia P, Sethy PK, Nanthaamornphong A. Advancements and Challenges in the Image-Based Diagnosis of Lung and Colon Cancer: A Comprehensive Review. Cancer Informatics. 2024;23.
+    Month/Year: 10/2024
+    Tag: Q3
+
+83. Kumar, A., Gaur, N., Aly, A. A., & Nanthaamornphong, A. (2024). PAPR reduction of OTFS using an automatic amplitude reduction neural network with vendermonde matrix-based PTS and SLM algorithms. EURASIP Journal on Wireless Communications and Networking, 2024(1), 1-18.
+    Month/Year: 10/2024
+    Tag: Q2
+
+84. Alanazi, M. H., Kumar, A., Aljebreen, M., Alzaben, N., Nanthaamornphong, A., Maray, M., Sorour, S., & Alzahrani, Y. (n.d.). Reducing PAPR in OTFS 6G waveforms using particle swarm optimization-based PTS and SLM techniques with 64, 256, and 512 sub-carriers in Rician and Rayleigh channels. Fractals. Advance online publication.
+    Month/Year: 10/2024
+    Tag: Q1 (Tier 1)
+
+85. Kumar, A., & Nanthaamornphong, A. (2024). Lowering the PAPR of the optical OTFS-based 6G radio with a hybrid PTS-PSO genetic approach. Discover Applied Sciences, 6(11), 574.
+    Month/Year: 10/2024
+    Tag: Q1
+
+86. Chandra Das, U., Shaik, N. B., Suanpang, P., Chandra Nath, R., Mantrala, K. M., Benjapolakul, W., ... Nanthaamornphong, A. (2024). Development of automatic CNC machine with versatile applications in art, design, and engineering. Array (New York, N.Y.), (100369), 100369.
+    Month/Year: 10/2024
+    Tag: Q2
+
+87. Bairagi, V. K., Vanjale, M. S., Dolas, A., Zende, S., Nanthaamornphong, A., & Harpale, S. (2024). Polycystic ovarian syndrome (PCOS) detection through deep learning. International Journal of Engineering Trends and Technology, 72(10), 159-170.
+    Month/Year: 10/2024
+    Tag: Q3
+
+88. Nanthaamornphong, A., Kumar, A., Alamro, H., Alruwais, N., Allafi, R., Nemri, N., Gaur, N., & Al Sadig, M. (2024). Enhancing OTFS modulation for 6G through hybrid PAPR reduction technique for different sub-carriers. Fractals, 0(0), 2540014.
+    Month/Year: 10/2024
+    Tag: Q1 (Tier 1)
+
+89. KUMAR, A., GAUR, N., NANTHAAMORNPHONG, A., ALZABEN, N., YAHYA, A., HASSINE, S., ALBALAWEE, N., & ZANIN, S. (204). A BACTERIA FORAGING ALGORITHM-BASED HYBRID A-LAW AND PTS PAPR REDUCTION METHOD FOR BEYOND 5G WAVEFORM. Fractals.
+    Month/Year: 10/2024
+    Tag: Q1 (Tier 1)
+
+90. Kumar, A., Rao, T., Sudhakar, A. & Nanthaamornphong, A. (2024). Enhancing the signal efficiency and PAPR performance of FBMC waveform in optical communication. Journal of Optical Communications.
+    Month/Year: 9/2024
+    Tag: Q3
+
+--- Page 10 ---
+
+91. Kumar, A., Gaur, N., & Nanthaamornphong, A. (2024). Machine learning RNNs, SVM and NN Algorithm for Massive-MIMO-OTFS 6G Waveform with Rician and Rayleigh channel. Egyptian Informatics Journal, 27, 100531.
+    Month/Year: 9/2024
+    Tag: Q1 (Tier 1)
+
+92. Kumar, A., Kanjilal, P., Syamala, M. & Nanthaamornphong, A. (2024). Integrating optical communication in MIMO-OTFS using hybrid signal detection methods: analyzing the throughput and spectrum. Journal of Optical Communications.
+    Month/Year: 9/2024
+    Tag: Q3
+
+93. Padhi, J., Korada, L., Dash, A., Sethy, P. K., Behera, S. K., & Nanthaamornphong, A. (2024). Paddy Leaf Disease Classification Using EfficientNet B4 With Compound Scaling and Swish Activation: A Deep Learning Approach. IEEE Access, 12, 126426-126437.
+    Month/Year: 9/2024
+    Tag: Q1 (Tier 1)
+
+94. Kumar, A., Chakravarty, S., & Nanthaamornphong, A. (2024). Reducing peak to average power ratio in optical NOMA based 5G system using advanced SLM method. Optical and Quantum Electronics, 56(10), 1-13.
+    Month/Year: 9/2024
+    Tag: Q2
+
+95. Ranjana Panigrahi, G., Kumar Sethy, P., Kumari Behera, S., Gupta, M., Alenizi, F. A., & Nanthaamornphong, A. (2024). Enhancing Security in Real-Time Video Surveillance: A Deep Learning-Based Remedial Approach for Adversarial Attack Mitigation. IEEE Access, 12, 88913-88926.
+    Month/Year: 7/2024
+    Tag: Q1 (Tier 1)
+
+96. Elgandelwar, S. M., Bairagi, V., Vasekar, S. S., Nanthamornphong, A., & Tupe-Waghmare, P. (2024). Analyzing electroencephalograph signals for early Alzheimer's disease detection: deep learning vs. traditional machine learning approaches. International Journal of Electrical and Computer Engineering (IJECE), 14(3), 2602-2615.
+    Month/Year: 6/2024
+    Tag: Q3
+
+97. Kumar, A., Chakravarthy, S., Gaur, N., Nanthamornphong, A., & Tupe-Waghmare, P. (2024). Ad hoc wireless network implementing BEE-LEACH. International Journal of Electrical and Computer Engineering (IJECE), 14(3), 2945-2954.
+    Month/Year: 6/2024
+    Tag: Q2
+
+98. Kumar, A., Gaur, N., & Nanthaamornphong, A. (2024). Wireless optimization for sensor networks using IoT-based clustering and routing algorithms. PeerJ. Computer Science, 10, e2132.
+    Month/Year: 6/2024
+    Tag: Q1
+
+99. Panigrahi, G., Sethy, P., Behera, S., Gupta, M., Alenizi, F., Suanpang, P., & Nanthaamornphong, A. (2024). Analytical Validation and Integration of CIC-Bell-DNS-EXF-2021 Dataset on Security Information and Event Management. IEEE Access, 12, 83043-83056.
+    Month/Year: 6/2024
+    Tag: Q1 (Tier 1)
+
+100. Kumar, A., Kaur, R., Gaur, N., & Nanthaamornphong, A. (2024). Exploring and analyzing the role of hybrid spectrum sensing methods in 6G-based smart health care applications [version 2; peer review: 2 approved]. F1000Research, 13(110).
+     Month/Year: 6/2024
+     Tag: Q1
+
+--- Page 11 ---
+
+101. Chaudhari A, Shedge D, Bairagi V, Nanthaamornphong A. Replay Attack Detection Using Integrated Glottal Excitation Based Group Delay Function and Cepstral Features. Symmetry. 2024; 16(7):788.
+     Month/Year: 6/2024
+     Tag: Q1 (Tier 1)
+
+102. Kumar, A., Chakravarty, S., Gaur, N., & Nanthaamornphong, A., (2024). Hybrid approaches to PAPR, BER, and PSD optimization in 6G OTFS: Implications for healthcare. Journal of Communications and Networks, 26(3), 308-320.
+     Month/Year: 6/2024
+     Tag: Q2
+
+103. Soni, A., Sethy, P. K., Dewangan, A. K., Nanthaamornphong, A., Behera, S. K., & Devi, B. (2024). Enhancing oral squamous cell carcinoma detection: A novel approach using improved EfficientNet architecture. BMC Oral Health, 24(1), 601.
+     Month/Year: 5/2024
+     Tag: Q2
+
+104. Kanjilal, P., Bhowmick, S., Syamala, M., Kumar, A. & Nanthaamornphong, A. (2024). Implementing green optical waveform system using hybrid cognitive methods for QAM transmission scheme. Journal of Optical Communications.
+     Month/Year: 5/2024
+     Tag: Q3
+
+105. Kanjilal, P., Kumar, A., Bhowmick, S., Maroor, J. & Nanthaamornphong, A. (2024). Implementation of companding scheme for performance enhancement of optical OFDM structure. Journal of Optical Communications.
+     Month/Year: 5/2024
+     Tag: Q3
+
+106. Kumar, A., Alshahrani, H. M., Alotaibi, F., & Nanthaamornphong, A. (2024). A hybrid detection algorithm for 5G OTFS waveform for 64 and 256 QAM with Rayleigh and Rician channels. Open Engineering, 14(1), Article 20240008.
+     Month/Year: 4/2024
+     Tag: Q2
+
+107. Kumar, A., Gaur, N., Chakravarty, S., & Nanthaamornphong, A. (2024). Exploring PTS method in MIMO advanced waveform signal for 5G network security analysis. Journal of Discrete Mathematical Sciences and Cryptography, 27(2-A), 261-268.
+     Month/Year: 4/2024
+     Tag: Q1 (Tier 1)
+
+108. Kumar, A., Gaur, N., Chaitra, S. N., Chakravarty, S., & Nanthaamornphong, A. (2024). Analyzing the role of spectrum sensing for security enhancement in beyond 5G waveforms using energy detection. In Journal of Discrete Mathematical Sciences and Cryptography (Vol. 27, Issues 2-A, pp. 215-222).
+     Month/Year: 4/2024
+     Tag: Q1 (Tier 1)
+
+109. Kumar, A., Gaur, N., & Nanthaamornphong, A. (2024). Optimizing PAPR, BER, and PSD Efficiency: Using Phase Factors Generated by Bacteria Foraging Algorithm for PTS and SLM Methods. IEEE Access, 12, 54964-54977.
+     Month/Year: 4/2024
+     Tag: Q1 (Tier 1)
+
+110. A. Kumar, K. Rajagopal, N. Gaur, and A. Nanthaamornphong, Reducing peak-to-average power ratio of filtered non-orthogonal multiple access and new radio 5g waveforms using hybrid partial transmit sequence-companding technique, ETRI Journal (2024), 1-11.
+     Month/Year: 4/2024
+     Tag: Q2
+
+--- Page 12 ---
+
+111. Kumar, A., Yamini, A. P., Gaur, N., & Nanthaamornphong, A. (2024). A mathematical analysis of the PAPR in the NOMA waveform using SLM algorithm for 64-QAM. Journal of Interdisciplinary Mathematics, 27(2), 223-232.
+     Month/Year: 3/2024
+     Tag: Q2
+
+112. Kumar, A., Chakravarty, S., Sharma, M. K., & Nanthaamornphong, A. (2024). A mathematical analysis of teleoperator optimization using multiple sensors. Journal of Interdisciplinary Mathematics, 27(2), 201-209.
+     Month/Year: 3/2024
+     Tag: Q2
+
+113. Kumar, A., Gaur, N., & Nanthaamornphong, A. (2024). Improving the latency for 5G/B5G based smart healthcare connectivity in rural area. Scientific Reports, 14(1), 6976.
+     Month/Year: 3/2024
+     Tag: Q1 (Tier 1)
+
+114. Kumar, A. ., Yongo, M. D. ., Chakravarthy, S. ., & Nanthaamornphong, A. . (2024). Integrated Research on Coexistence of mm-Wave Radar Communication and Dense Multi-Access Point Environments: A Testbed Controller Approach. International Journal of Intelligent Systems and Applications in Engineering, 12(19s), 479-484.
+     Month/Year: 3/2024
+     Tag: Q3
+
+115. Kumar, A., Sharma, H., Gaur, N., & Nanthaamornphong, A. (2024). PAPR analysis in OTFS using the centre phase sequence matrix based PTS method. Results in Optics, 15, 100664.
+     Month/Year: 3/2024
+     Tag: Q3
+
+116. Dutta, A., Das, U. C., Chavalparit, O., Dutta, G., Limphitakphong, N., Gupta, M., & Nanthaamornphong, A. (2024). Optimizing prevention strategies for PM2.5-related health risks in Nakhon Ratchasima. Environmental and Sustainability Indicators, 21, 100328.
+     Month/Year: 2/2024
+     Tag: Q1 (Tier 1)
+
+117. Dev, D. G., Bhatnagar, V., Bhati, B. S., Gupta, M., & Nanthaamornphong, A. (2024). LSTMCNN: A hybrid machine learning model to unmask fake news. Heliyon, 10(3), e25244.
+     Month/Year: 2/2024
+     Tag: Q1
+
+118. Kumar, A., Gaur, N., Mallam, M. & Nanthaamornphong, A. (2024). Enhancing the power amplifier performance of an optical-OTFS modulation for optical communication system. Journal of Optical Communications.
+     Month/Year: 2/2024
+     Tag: Q3
+
+119. Kumar, A. ., Gaur, N. ., & Nanthaamornphong, A. . (2024). Intelligent Signal Identification of NOMA Signal with 256-QAM Modulation Using SVM Algorithm. International Journal of Intelligent Systems and Applications in Engineering, 12(13s), 257-264.
+     Month/Year: 2/2024
+     Tag: Q3
+
+120. Kumar, A., Gaur, N., Gupta, M., & Nanthaamornphong, A. (2024). Implementation of the deep learning method for signal detection in massive-MIMO-NOMA systems. Heliyon, 10(3), e25374.
+     Month/Year: 2/2024
+     Tag: Q1
+
+--- Page 13 ---
+
+121. Tiwari, D., Nagpal, B., Bhati, B., Gupta, M., Suanpang, P., Butdisuwan, S., & Nanthaamornphong, A. (2024). SPSO-EFVM: A Particle Swarm Optimization-Based Ensemble Fusion Voting Model for Sentence-Level Sentiment Analysis. IEEE Access, 12, 23707-23724.
+     Month/Year: 2/2024
+     Tag: Q1 (Tier 1)
+
+122. Kumar, A., Gaur, N., Chakravarty, S., & Nanthaamornphong, A. (2023). Reducing the PAPR of OTFS modulation using hybrid PAPR algorithms. Wireless Personal Communications, 133(4), 2503-2523.
+     Month/Year: 2/2024
+     Tag: Q2
+
+123. Kumar, A. ., Gaur, N. ., Chakravarthy, S. ., & Nanthaamornphong, A. . (2024). Performance Evaluation of 5G New Radio Physical Uplink Channels with LDPC and Polar Coding on AWGN Channels. International Journal of Intelligent Systems and Applications in Engineering, 12(16s), 698-701.
+     Month/Year: 2/2024
+     Tag: Q3
+
+124. Kumar, A., Chakravarty, S. & Nanthaamornphong, A. (2024). Analysis of PAPR reduction of optical-OTFS for 256-QAM using companding and clipping-filtering algorithms. Journal of Optical Communications.
+     Month/Year: 1/2024
+     Tag: Q3
+
+125. Kumar, A., Chakravarthy, S. & Nanthaamornphong, A. (2023). Application of IoT network for marine wildlife surveillance. Open Physics, 21(1), 20230160. (WoS indexed)
+     Month/Year: 12/2023
+     Tag: Q2
+
+126. Kumar, A., Nanthaamornphong, A., Selvi, R., Venkatesh, J., Alsharif, M. H., Uthansakul, P., & Uthansakul, M. (2023). Evaluation of 5G techniques affecting the deployment of smart hospital infrastructure: Understanding 5G, AI and IoT role in smart hospital. Alexandria Engineering Journal, 83, 335-354.
+     Month/Year: 11/2023
+     Tag: Q1 (Tier 1)
+
+127. Nanthaamornphong, A., Mallam, M., & Kaur, R. (2023). Analysis of 256-QAM optical OFDM-NOMA signal detection using beamforming. Journal of Optical Communications. https://doi.org/10.1515/joc-2023-0292
+     Month/Year: 11/2023
+     Tag: Q3
+
+128. Kumar, A., Chakravarthy, S., & Nanthaamornphong, A. (2023). Energy-Efficient Deep Neural Networks for EEG Signal Noise Reduction in Next-Generation Green Wireless Networks and Industrial IoT Applications. Symmetry, 15(12), Article 2129.
+     Month/Year: 11/2023
+     Tag: Q1 (Tier 1)
+
+129. Phucharoen, C., Sangkaew, N., Wichupankul, S., & Nanthaamornphong, A. (2023). Green rush in Phuket: big-data evidence of cannabis commercialization in a tourism-centric area. Journal of Travel & Tourism Marketing, 40(6), 532-550.
+     Month/Year: 10/2023
+     Tag: Q1
+
+130. Sangkaew, N., Nanthaamornphong, A., & Phucharoen, C. (2023). Understanding Tourists' Perception Toward Local Gourmet Consumption in the Creative City of Gastronomy: Factors Influencing Consumer Satisfaction and Behavioral Intentions. Journal of Quality Assurance in Hospitality & Tourism, 1-28.
+     Month/Year: 8/2023
+     Tag: Q1
+
+--- Page 14 ---
+
+131. Nanthaamornphong, A., & Boonchieng, E. (2023). An Exploratory Study on Code Smells during Code Review in OSS Projects: A Case Study on OpenStack and WikiMedia. Recent Advances in Computer Science and Communications (Formerly: Recent Patents on Computer Science), 16(7), 20-33.
+     Month/Year: 3/2023
+     Tag: Q3
+
+132. Nanthaamornphong, A., & Kitpanich, T. (2022). The impact of peer code review on software maintainability in open-source software: A case study. International Journal of Advance Computer Science and Applications, 13(12), 954-965. [Scopus indexed]
+     Month/Year: 12/2022
+
+133. Nanthaamornphong, A., Saeang, T., & Tularak, P. (2020). Zsmell - Code smell detection for open source software. International Journal on Advanced Science, Engineering and Information Technology, 10(3), 1035-1041. [Scopus indexed]
+     Month/Year: 6/2020
+
+134. Nanthaamornphong, A., & Bressan, S. (2019). The empirical study: encouraging students' interest in software development using test-driven development. Tehnicki glasnik, 13(4), 267-274. [Scopus indexed]
+     Month/Year: 12/2019
+
+135. Nanthaamornphong, A., & Laetongkam, A. (2019). Extended ForUML for automatic generation of UML sequence diagrams from object-oriented Fortran. Scientific Programming. Article ID 2542686. [WoS Indexed]
+     Month/Year: 2/2019
+
+136. Nanthaamornphong, A., & Wetprasit, R. (2018). Methods to measure the impact of design patterns on software maintainability. Maejo International Journal of Science and Technology, 12(3), 251-271. [WoS Indexed]
+     Month/Year: 11/2018
+
+137. Nanthaamornphong, A., & Carver, J. C. (2018). Test-driven development in hpc science: A case study. Computing in Science & Engineering, 20(5), 98-113. [WoS indexed]
+     Month/Year: 9/2018
+
+138. Nanthaamornphong, A., Pomwong, S., Klebkaew, K., & Jindamanee, N. (2017). Squirrel: A Code Snippet Repository. Journal of Telecommunication, Electronic and Computer Engineering (JTEC), 9(3-3), 73-77. [Scopus Indexed]
+     Month/Year: 12/2017
+
+139. Nanthaamornphong, A., & Kitpanich, T. (2017). The Study of Code Reviews based on Software Maintainability in Open Source Projects. Journal of Telecommunication, Electronic and Computer Engineering (JTEC), 9(3-4), 123-129. [Scopus indexed]
+     Month/Year: 12/2017
+
+140. Nanthaamornphong, A., & Carver, J. C. (2017). Test-Driven Development in scientific software: a survey. Software Quality Journal, 25, 343-372. [WoS indexed]
+     Month/Year: 6/2017
+
+--- Page 15 ---
+
+141. Krein, J. L., Prechelt, L., Juristo, N., Nanthaamornphong, A., Carver, J. C., Vegas, S., ... & Eggett, D. L. (2015). A multi-site joint replication of a design patterns experiment using moderator variables to generalize across contexts. IEEE Transactions on Software Engineering, 42(4), 302-321. [WoS indexed]
+     Month/Year: 4/2016
+
+142. Nanthaamornphong, A., & Wetprasit, R. (2015). Evaluation of the visitor pattern to promote software design simplicity. Jurnal Teknologi, 77(9), 61-77. [Scopus indexed]
+     Month/Year: 10/2015
+
+143. Nanthaamornphong, A., Morris, K., & Filippone, S. (2013, November). Extracting uml class diagrams from object-oriented fortran: Foruml. In Proceedings of the 1st International Workshop on Software Engineering for High Performance Computing in Computational Science and Engineering (pp. 9-16). [WoS indexed]
+     Month/Year: 6/2015
+
+144. Nanthaamornphong, A., Carver, J. C., Morris, K., Michelsen, H. A., & Rouson, D. W. (2014). Building cliime via Test-Driven Development: A case study. Computing in Science & Engineering, 16(3), 36-46. [WoS indexed]
+     Month/Year: 1/2014
+
+
+================================================================================
+SECTION 2: INTERNATIONAL PROCEEDINGS (33 total)
+================================================================================
+
+--- Page 1 ---
+
+1. Kanjilal, P., Kumar, A., Nanthaamornphong, A., & Bhowmick, S. (2025). Lowering the peak to average power ratio by using the PTS method for high-speed application systems. In 2025 International Conference on Computer, Electrical & Communication Engineering (ICCECE) (pp. 1-5). IEEE. https://doi.org/10.1109/ICCECE61355.2025.10940558
+   Month/Year: 4/2025
+
+2. Kumar, A., Nanthaamornphong, A., & Bhardwaj, R. (2025). Implementation of double stage energy detection (DSEd) spectrum sensing algorithms for advanced waveforms. In Data Science & Exploration in Artificial Intelligence (pp. 389-395).
+   Month/Year: 3/2025
+
+3. Kumar, A., Nanthaamornphong, A., Bhardwaj, R., & Das, A. (2025). Analysis of peak to average power ratio in OTFS waveform using hybrid PTS and clipping algorithm. In Data Science & Exploration in Artificial Intelligence (pp. 381-388).
+   Month/Year: 3/2025
+
+4. Das, U. C., Benjapolakul, W., Gupta, M., Somthawinpongsai, C., Vitoonpong, T., Suanpang, P., Butdisuwan, S., & Nanthaamornphong, A. (2024). Brain cancer tumor detection by U-Net deep learning algorithm from MRI images. In 2024 12th International Conference on Internet of Everything, Microwave, Embedded, Communication and Networks (IEMECON) (pp. 1-6). IEEE.
+   Month/Year: 1/2025
+
+5. Juneja, S., Suanpang, P., Gupta, M., Bhati, N. K., Bhati, B. S., Somthawinpongsai, C., & Nanthaamornphong, A. (2024). Performance evaluation of various ML algorithms for PCOS diagnosis. 2024 12th International Conference on Internet of Everything, Microwave, Embedded, Communication and Networks (IEMECON), 1-6.
+   Month/Year: 1/2025
+
+6. B C, G. K., Kumar, G., Sangchumnong, A., Nand, P., Gupta, M., Somthawinpongsai, C., Bali, V., & Nanthaamornphong, A. (2024). Framework for evaluation and providing security in the tourism industry for a trustworthy rating system. 2024 12th International Conference on Internet of Everything, Microwave, Embedded, Communication and Networks (IEMECON), 1-6.
+   Month/Year: 1/2025
+
+7. Bhanani, P., Khatana, S., Somthawinpongsai, C., Verma, D. K., Gupta, M., & Nanthaamornphong, A. (2024). Dsuraksha: Cryptography and steganography technique-enabled integrated system for data protection in multimedia. 2024 12th International Conference on Internet of Everything, Microwave, Embedded, Communication and Networks (IEMECON), 1-6.
+   Month/Year: 1/2025
+
+8. Hayat, M., Gupta, M., Suanpang, P., & Nanthaamornphong, A. (2024). Super-resolution methods for endoscopic imaging: A review. 2024 12th International Conference on Internet of Everything, Microwave, Embedded, Communication and Networks (IEMECON), 1-6.
+   Month/Year: 1/2025
+
+9. N A, D., Kumar, G., Sangchumnong, A., R S, C., Singh Rawat, S., Nanthaamornphong, A., B C, G. K., & Gupta, M. (2024). Virtual learning environment - Evaluation of learner's behavior using topic models. 2024 12th International Conference on Internet of Everything, Microwave, Embedded, Communication and Networks (IEMECON), 1-6.
+   Month/Year: 1/2025
+
+10. Kumar, A., Gaur, N., Joshi, I., & Nanthaamornphong, A. (2025). Lowering the PAPR in Advanced Waveforms Using PTS Method. In B. Sharma, D.-T. Do, S. N. Sur, & C.-M. Liu (Eds.), Advances in Communication, Devices and Networking (pp. 285-297). Singapore: Springer Nature Singapore.
+    Month/Year: 10/2024
+
+--- Page 2 ---
+
+11. Kumar, A., Chakravarty, S., Sao, C., Syed, T. M., & Nanthaamornphong, A. (2024). Peak to average power ratio estimation and analysis in OTFS 6G waveform by using selective mapping algorithm. In SoutheastCon 2024 (pp. 1070-1074).
+    Month/Year: 5/2024
+
+12. Fangyi Zhu, Nasith Laosen, Kanjana Laosen, Kannikar Paripremkul, Aziz Nanthaamornphong, See-Kiong Ng, and Stephane Bressan "A Comparative Empirical Evaluation of Neural Language Models for Thai Question-Answering," 2022 37th International Technical Conference on Circuits/Systems, Computers and Communications (ITC-CSCC), 2022, pp. 120-123.
+    Month/Year: 9/2022
+
+13. A. Y. Mohamad, S. R. Harun, N. A. A. Shahidan, Aziz Nanthaamornphong, A. Mustapha and M. H. A. Wahab, "Collaborative Filtering Approach for Movie Recommendations," 2022 19th International Conference on Electrical Engineering/Electronics, Computer, Telecommunications and Information Technology (ECTI-CON), 2022, pp. 1-6.
+    Month/Year: 6/2022
+
+14. S. N. Maozad, S. Noor Asyikin Mohd Razali, A. Mustapha, Aziz Nanthaamornphong, M. H. Abdul Wahab and N. Razali, "Comparative Analysis for Predicting Football Match Outcomes based on Poisson Models," 2022 19th International Conference on Electrical Engineering/Electronics, Computer, Telecommunications and Information Technology (ECTI-CON), 2022, pp. 1-4.
+    Month/Year: 6/2022
+
+15. Ton Jaitrong and Aziz Nanthaamornphong, "Classification of Tourism-Related Topics in Phuket: A Case Study," 2022 Joint International Conference on Digital Arts, Media and Technology with ECTI Northern Section Conference on Electrical, Electronics, Computer and Telecommunications Engineering (ECTI DAMT & NCON), 2022, pp. 218-222.
+    Month/Year: 2/2022
+
+16. Nor Razak, Aida Mustapha, Aziz Nanthaamornphong, Mohd Helmy Abd Wahab, and Salama Mostafa, Prediction of Secondary Students Performance: A Case Study, Proceedings of the 18th International Conference on Electrical Engineering/Electronics, Computer, Telecommunications and Information Technology (ECTI-CON), June 2021, pp.908-912.
+    Month/Year: 5/2021
+
+17. Azrel Aiman Azeman, Aida Mustapha, Nazim Razali, Aziz Nanthaamornphong, Mohd Helmy Abd Wahab, Prediction of Football Matches Results: Decision Forest against Neural Networks, proceedings of the 18th International Conference on Electrical Engineering/Electronics, Computer, Telecommunications and Information Technology (ECTI-CON), June 2021, pp.1032-1035.
+    Month/Year: 5/2021
+
+18. Kulsiri Chirayus and Aziz Nanthaamornphong, Cognitive Mobile Design Guidelines for the Elderly: A Preliminary Study, in proceedings of the 17th International Conference on Electrical Engineering/Electronics, Computer, Telecommunications and Information Technology (ECTI-CON), Virtual Event, August 2020, pp. 673-678.
+    Month/Year: 8/2020
+
+19. Aziz Nanthaamornphong, Jeffrey Holmes, and Pracha Asawateera, A Case Study: Phuket City Data Platform, proceedings of the 17th International Conference on Electrical Engineering/Electronics, Computer, Telecommunications and Information Technology (ECTI-CON), Virtual Event, August 2020, pp. 717-722.
+    Month/Year: 8/2020
+
+20. Kulsiri Chirayus, Aziz Nanthaamornphong, A Systematic Mapping Review: Mobile User Interface Design Guidelines for the Elderly with Cognitive Impairments, The 23rd International Computer Science and Engineering Conference (ICSEC 2019), Phuket, Thailand, June 2019, pp. 35-42.
+    Month/Year: 1/2020
+
+--- Page 3 ---
+
+21. Aziz Nanthaamornphong, Thanyarat Kitpanich, Mohd Helmy Abd Wahab, "Adoption of Agile by Software Developers in Thailand", In Proceedings of the 18th International Conference on Intelligent Software Methodologies, Tools, and Techniques (SOMET 2019), 23-25 September 2019, Sarawak, Malaysia, pp.487-499.
+    Month/Year: 9/2019
+
+22. Hajer Kafi, Aziz Nanthaamornphong, Stephane Bressan, Determinants of Social Networking Usage and Regret in Two Cultural Settings: France and Thailand, The Americas Conference on Information Systems 2019 (AMCIS 2019), 15-17 August 2019, Cancun, Mexico, pp. 1-10.
+    Month/Year: 8/2019
+
+23. Hong Anh Le, Ninh Thuan Truong, and Aziz Nanthaamornphong, A Model-based Method for Modeling and Verifying Event-Based Aspect-Oriented Applications, Recent Advances and Future Prospects in Knowledge, Information and Creativity Support Systems: Selected Revised Papers from the 10th International Conference on Knowledge, Information and Creativity Support Systems (KICSS 2015), Phuket, Thailand, pp. 281-289.
+    Month/Year: 1/2018
+
+24. Anawat Leatongkam, Aziz Nanthaamornphong, and Damian W. Rouson, WIP: Generating Sequence Diagrams for Modern Fortran, The 2017 International Workshop on Software Engineering for Science Held during ICSE 2017, pp. 22-23, Buenos Aires.
+    Month/Year: 5/2017
+
+25. Aziz Nanthaamornphong, A Case Study: Test-Driven Development in a Microscopy Image-Processing Project, The 4th International Workshop on Software Engineering for High Performance Computing in Computational Science and Engineering (SE-HPCCSE16) co-located with Super Computing 2016, pp. 9-16, Salt Lake City, Utah, USA.
+    Month/Year: 11/2016
+
+26. Aziz Nanthaamornphong and Rattana Wetprasit, A Case Study: Adoption of Agile in Thailand, The 8th International Conference on Advanced Computer Science and Information Systems, pp. 585-590, Malang, Indonesia.
+    Month/Year: 10/2016
+
+27. Aziz Nanthaamornphong and Apatta Chaisutanon, Empirical Evaluation of Code Smells in Open Source Projects: Preliminary Results, The 1st International Workshop on Refactoring (IWoR 2016) in Conjuction with ASE 2016, pp.5-8, Singapore.
+    Month/Year: 9/2016
+
+28. Aziz Nanthaamornphong, Anawat Leatongkam, Thanyarat Kitpanich, and Pongsakorn Thongnuan, Bytecode-based Class Dependency Extraction Tool: Bytecode-CDET, The 7th International Conference on Information Technology and Electrical Engineering, pp. 6-11, Chiangmai, Thailand.
+    Month/Year: 10/2015
+
+29. Aziz Nanthaamornphong and Rattana Wetprasit, A Controlled Experiment: Do Visitor Patterns Improve Software Simplicity, The 8th Malaysian Software Engineering (MySEC), pp. 90-95, Langkawi, Malaysia.
+    Month/Year: 9/2014
+
+30. Aziz Nanthaamornphong, Karla Morris, Salvatore Fillipone, Extracting UML class diagrams from object-oriented fortran: Foruml. The 1st International Workshop on Software Engineering for High Performance Computing in Computational Science and Engineering in Conjunction with SC13, pp. 9-16, Colorado, Denver, USA.
+    Month/Year: 11/2013
+
+--- Page 4 ---
+
+31. Aziz Nanthaamornphong, A Pilot Study: Design Patterns in Parallel Program Development, The 1st International Workshop on Software Engineering for High Performance Computing in Computational Science and Engineering in Conjunction with SC13, pp. 17-20, Colorado, Denver, USA.
+    Month/Year: 11/2013
+
+32. Aziz Nanthaamornphong, Karla Morris, Hope A. Michelsen, Damian W. I. Rouson, A Case Study: Agile Development in the Community Laser-Induced Incandescence Modeling Environment (CLiiME), The 6th International Workshop on Software Engineering for Computational Science and Engineering in Conjunction with ICSE'13, pp. 9-18, San Francisco, California, USA.
+    Month/Year: 5/2013
+
+33. Aziz Nanthaamornphong, Jeffrey Carver, Design Patterns in Software Maintenance: An Experiment Replication at University of Alabama, The 2nd International Workshop on Replication in Empirical Software Engineering Research, pp. 15-24, Alberta, Canada.
+    Month/Year: 9/2011
+
+
+================================================================================
+SECTION 3: NATIONAL PROCEEDINGS (6 total)
+================================================================================
+
+1. Anawat Leatongkam and Aziz Nanthaamornphong, Modern Fortran Transformation Rules for UML Sequence Diagrams, The 13th National Conference on Computing and Information Technology (NCCIT 2017), pp.247-280, Bangkok, Thailand.
+   Month/Year: 1/2017
+
+2. Thanyarat Kitpanich and Aziz Nanthaamornphong, The Empirical Evidence on Software Maintainability in Open Source Projects, The 13th National Conference on Computing and Information Technology (NCCIT 2017), pp.267-273, Bangkok, Thailand.
+   Month/Year: 1/2017
+
+3. Aziz Nanthaamornphong, Weerayut Hongsa, Nimaslan Auseng, and Chanwit Julrod, The Log File Management with AirLog, The 12th National Conference on Computing and Information Technology (NCCIT 2016), pp. 292-297, Khon Kaen, Thailand.
+   Month/Year: 1/2016
+
+4. Rattana Wetprasit and Aziz Nanthaamornphong, Phuket Smart City and the Needs of its Population, The 12th National Conference on Computing and Information Technology (NCCIT 2016), pp.599-604, Khon Kaen, Thailand.
+   Month/Year: 1/2016
+
+5. Suchada Pongprom, Aziz Nanthaamornphong, and Rattana Wetprasit, Encouraging Students' Interest in Software Development by Test-Driven Development, The 12th National Conference on Computing and Information Technology (NCCIT 2016), pp.478-483, Khon Kaen, Thailand.
+   Month/Year: 1/2016
+
+6. Apatta Chaisutanon, Aziz Nanthaamornphong, and Rattana Wetprasit, Code Smell Influences in the Code Review for Open Source Software Projects, The 12th National Conference on Computing and Information Technology (NCCIT 2016), pp.170-175, Khon Kaen, Thailand.
+   Month/Year: 1/2016
+
+
+================================================================================
+SECTION 4: BOOK CHAPTERS (2 total)
+================================================================================
+
+1. Gaur, N., Chakravarty, S., & Nanthaamornphong, A. (2024). 6G networks technology. In Smart hospitals: An exhaustive survey (pp. 235-256). Wiley Online Books. https://doi.org/10.1002/9781394275472.ch12
+   Month/Year: 11/2024
+
+2. Aziz Nanthaamornphong, and Rattana Wetprasit. "Thailand's Software Startup Ecosystem." In Fundamentals of Software Startups, pp. 195-213. Springer, Cham, 2020.
+   Month/Year: 3/2020
+
+
+================================================================================
+END OF PUBLICATIONS DATA
+================================================================================
+
+Summary:
+- International Journal Articles: 144
+- International Proceedings: 33
+- National Proceedings: 6
+- Book Chapters: 2
+- Total Publications: 185
