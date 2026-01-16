@@ -26,7 +26,48 @@ author_profile: true
   padding-bottom: 10px;
   border-bottom: 3px solid #333;
 }
+.year-header {
+  color: #667eea;
+  border-bottom: 2px solid #667eea;
+  padding-bottom: 5px;
+  margin-top: 25px;
+  margin-bottom: 15px;
+  font-size: 1.2em;
+  font-weight: bold;
+}
 </style>
+
+<script>
+// Add year headers after bibtex.js finishes loading
+$(document).ready(function() {
+  // Wait for bibtex.js to finish rendering
+  setTimeout(function() {
+    addYearHeaders();
+  }, 1500);
+});
+
+function addYearHeaders() {
+  // Process each section
+  $('.section').each(function() {
+    var section = $(this);
+    var items = section.find('li.bibtexVar');
+    var currentYear = null;
+
+    items.each(function() {
+      var item = $(this);
+      var yearSpan = item.find('.year');
+      if (yearSpan.length) {
+        var year = yearSpan.text().trim();
+        if (year && year !== currentYear) {
+          currentYear = year;
+          // Insert year header before this item
+          $('<h3 class="year-header">' + year + '</h3>').insertBefore(item.closest('ul'));
+        }
+      }
+    });
+  });
+}
+</script>
 
 <div class="bibtex_structure">
   <div class="sections bibtextypekey">
