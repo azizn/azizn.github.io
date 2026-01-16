@@ -13,6 +13,12 @@ I have served in various leadership and organizing roles for international confe
 
 <div style="margin-top: 20px;">
 
+<div style="margin-bottom: 25px; padding: 15px; background: #f8f9fa; border-left: 4px solid #6c757d; border-radius: 4px;">
+  <strong style="color: #6c757d;">Publication Chair</strong><br>
+  <span style="font-size: 1.1em; font-weight: 500;">ITC-CSCC 2026</span><br>
+  <span style="color: #666;">The 41st International Technical Conference on Circuits/Systems, Computers and Communications</span>
+</div>
+
 <div style="margin-bottom: 25px; padding: 15px; background: #f8f9fa; border-left: 4px solid #007bff; border-radius: 4px;">
   <strong style="color: #007bff;">General Chair</strong><br>
   <span style="font-size: 1.1em; font-weight: 500;">InCIT 2026</span><br>
