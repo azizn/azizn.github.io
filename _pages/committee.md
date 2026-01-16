@@ -16,7 +16,7 @@ I have served in various leadership and organizing roles for professional associ
 <div style="margin-bottom: 25px; padding: 15px; background: #f8f9fa; border-left: 4px solid #dc3545; border-radius: 4px;">
   <strong style="color: #dc3545;">President</strong><br>
   <span style="font-size: 1.1em; font-weight: 500;">Council of IT Deans of Thailand</span><br>
-  <span style="color: #666;">2025 – 2026</span>
+  <span style="color: #666;">Jan 2025 – Dec 2025</span>
 </div>
 
 <div style="margin-bottom: 25px; padding: 15px; background: #f8f9fa; border-left: 4px solid #fd7e14; border-radius: 4px;">
