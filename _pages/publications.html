@@ -44,10 +44,21 @@ author_profile: true
 <script>
 // Add year headers after bibtex.js finishes loading
 $(document).ready(function() {
-  // Wait for bibtex.js to finish rendering
+  // Wait for bibtex.js to finish rendering, check periodically
+  var checkInterval = setInterval(function() {
+    if ($('li.bibtexVar').length > 0) {
+      clearInterval(checkInterval);
+      setTimeout(addYearHeaders, 500); // Small delay to ensure all items rendered
+    }
+  }, 300);
+
+  // Fallback timeout after 10 seconds
   setTimeout(function() {
-    addYearHeaders();
-  }, 2000);
+    clearInterval(checkInterval);
+    if ($('.year-header-item').length === 0) {
+      addYearHeaders();
+    }
+  }, 10000);
 });
 
 function addYearHeaders() {
