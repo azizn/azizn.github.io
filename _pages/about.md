@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an **Associate Professor of Computer Science** at the [College of Computing](https://computing.psu.ac.th/), [Prince of Songkla University](https://www.psu.ac.th/), Phuket Campus, Thailand. I lead the **AI-TASI** (Artificial Intelligence and Technology for Advanced Software Innovation) research group.
+I am an **Associate Professor of Computer Science** and **Dean** of the [College of Computing](https://computing.psu.ac.th/), [Prince of Songkla University](https://www.psu.ac.th/), Phuket Campus, Thailand.
 
 My research focuses on the intersection of **data science** and **software engineering**, with particular emphasis on software analytics, empirical software engineering, and applying AI/ML techniques to improve software development practices.
 
@@ -26,17 +26,6 @@ My research focuses on the intersection of **data science** and **software engin
   <span style="background: #e8f4f8; padding: 5px 12px; border-radius: 15px; font-size: 0.9em;">Test-Driven Development</span>
   <span style="background: #e8f4f8; padding: 5px 12px; border-radius: 15px; font-size: 0.9em;">Wireless Communications</span>
 </div>
-
----
-
-## News
-
-| Date | News |
-|------|------|
-| 2025 | Promoted to **Associate Professor** of Computer Science |
-| 2025 | Published 50+ papers in international journals including Scientific Reports, IEEE Access, and Alexandria Engineering Journal |
-| 2024 | Collaborative research on 5G/6G waveforms and signal processing with international partners |
-| 2024 | Research on AI applications in healthcare and smart hospitals |
 
 ---
 
@@ -85,5 +74,5 @@ I teach courses in computer science and software engineering at both undergradua
 Feel free to reach out for research collaboration, student supervision, or academic inquiries.
 
 - **Email**: [aziz.n@phuket.psu.ac.th](mailto:aziz.n@phuket.psu.ac.th)
-- **Office**: Room 6708, College of Computing, PSU Phuket Campus
+- **Office**: Room 6102, College of Computing, PSU Phuket Campus
 - **Address**: 80 M.1 Vichitsongkram Road, Kathu, Phuket 83120, Thailand
